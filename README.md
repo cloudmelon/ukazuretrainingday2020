@@ -1,8 +1,10 @@
-# Microsoft Azure Training Day : Modernizing Data, Applications, and APIs to the Cloud - UK Tour
+# Microsoft Azure Training Day : Modernizing Data, Applications, and APIs to the Cloud - UK Tour 2020
 
-This repo contains demos and scripts for Azure Training Day - UK Tour.
+This repo contains demos and scripts for Azure Training Day - UK Tour 2020.
 
 Join us at Microsoft Azure Training Day: Migrating Applications to the Cloud, a free, one-day event for developers and architects to learn the steps and decision-making process of a migration. Assume the role of a member of the fictional Tailwind Traders’ cloud-migration team as it transitions a recent acquisition, Northwind, to the Azure cloud platform.
+
+## 
 
 ## Kubernetes Useful references : 
 
