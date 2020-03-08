@@ -1,4 +1,4 @@
-# Microsoft Azure Training Day : Modernizing Data, Applications, and APIs to the Cloud - UK Tour 2020
+# Microsoft Azure Training Day : Azure Modernising Web Applications and Data  - UK Tour 2020
 
 This repo contains demos and scripts for Azure Training Day - UK Tour 2020.
 
