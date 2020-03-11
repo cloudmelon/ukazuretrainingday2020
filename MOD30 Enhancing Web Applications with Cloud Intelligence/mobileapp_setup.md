@@ -67,7 +67,7 @@ For **APPS10** you will be find running from the [compiled version](#compile).
 
 Installing Xamarin on Windows can be done by selecting the _Mobile Development with .NET_ workload from the Visual Studio Installer.
 
-![mobile development with .NET workload](https://res.cloudinary.com/code-mill-technologies-inc/image/upload/c_scale,e_shadow:40,h_600/v1579909568/vs-workload_flmjkj.jpg)
+![mobile development with .NET workload](https://res.cloudinary.com/code-mill-technologies-inc/image/upload/c_scale,e_shadow:40,h_600/v1579909568/vs-workload.jpg)
 
 This will get you up and running with the Xamarin development environment. The [full installation documentation can be found here](https://docs.microsoft.com/en-us/xamarin/get-started/installation/windows?WT.mc_id=msignitethetour2019-github-mod30).
 
