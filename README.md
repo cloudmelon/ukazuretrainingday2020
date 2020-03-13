@@ -6,24 +6,15 @@ Join us at Microsoft Azure Training Day: Migrating Applications to the Cloud, a 
 
 ## 
 
-## Kubernetes Useful references : 
+## Serverless Useful references : 
 
-- Kubernetes By Example : 
-  http://kubernetesbyexample.com/  
+- The Total Economic Impact of the Microsoft Azure Serverless Platform : 
+  https://azure.microsoft.com/en-gb/resources/forrester-tei-azure-serverless/
   
-- Mastering Kubernetes By doing AKS Workshop : 
-  https://aksworkshop.io/
-
-- Kubernetes the hard way on Azure : 
-  https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure/tree/master/docs
+- Create event-driven serverless apps with Azure Event Grid and Azure Functions : 
+  https://azure.microsoft.com/en-gb/resources/create-event-driven-serverless-apps-with-azure-event-grid-and-azure-functions/
 
 
-## Azure Kubernetes services ( AKS ) useful references : 
-
-- AKS Current preview features: https://aka.ms/aks/previewfeatures
-- AKS Release notes: https://aka.ms/aks/releasenotes
-- AKS Public roadmap: http://aka.ms/aks/roadmap
-- AKS Known-issues: https://aka.ms/aks/knownissues
 
 
 ## More details on my blog : 
