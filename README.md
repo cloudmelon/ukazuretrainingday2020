@@ -14,7 +14,8 @@ Join us at Microsoft Azure Training Day: Migrating Applications to the Cloud, a 
 - Create event-driven serverless apps with Azure Event Grid and Azure Functions : 
   https://azure.microsoft.com/en-gb/resources/create-event-driven-serverless-apps-with-azure-event-grid-and-azure-functions/
 
-
+- Free E-Book Azure for Architects: Design your cloud solutions with high availability, security, and scalability 
+  https://azure.microsoft.com/en-gb/resources/azure-for-architects-en-gb/
 
 
 ## More details on my blog : 
